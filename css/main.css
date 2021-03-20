@@ -8,8 +8,10 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
   margin: 0;
+  padding: 1rem;
 }
 article {
 
@@ -20,6 +22,7 @@ article header {
 article p {
   float: left;
 }
+
 article ol {
   float: left;
 }
