@@ -15,11 +15,15 @@ body {
 }
 
 article {
-
+  border-style: none none solid;
+  border-color: #999;
+  border-width: 2px;
 }
 
 article header {
-
+  border-style: none none solid;
+  border-color: #999;
+  border-width: 2px;
 }
 
 article p {
