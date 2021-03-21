@@ -27,6 +27,7 @@ article p {
 }
 
 article ol {
+  padding: 0 1rem;
 }
 
 article h1 {
