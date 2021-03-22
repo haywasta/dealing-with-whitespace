@@ -18,6 +18,8 @@ article {
   border-style: none none solid;
   border-color: #999;
   border-width: 2px;
+  margin: 0 0 1.3rem;
+  padding: 0;
 }
 
 article header {
@@ -43,7 +45,7 @@ article h1 {
 
 article header p {
   font-style: italic;
-  padding: 0 0 1.3rem;
+  padding-bottom: 1.3rem;
   margin: 0;
 }
 
